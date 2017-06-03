@@ -1,2 +1,2 @@
 #!/bin/sh
-./tweetperl.pl
+PORT=$PORT ./tweetperl.pl
